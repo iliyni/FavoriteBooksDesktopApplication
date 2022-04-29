@@ -1,0 +1,6 @@
+1, The Trial, Novel, Franz Kafka, Award1, 4, 2020, 216, It tells the story of Josef K. a man arrested and prosecuted by a remote inaccessible authority.
+2, Tutunamayanlar, Novel, Oğuz Atay, Award2, 4, 2021, 671, It was written in 1970-71 and published in 1972
+3, Oblomov, Novel, Ivan Gonçarov, Award3, 5, 2021, 632, The novel was popular when it came out, and some of its characters and devices have imprinted on Russian culture and language.
+4, The Metamorphosis, Novella, Franz Kafka, Award4, 4, 2021, 104, It tells..
+5, Frankenstein, Science Fiction, MAry Shelley, Award5, 3, 2021, 300, Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment.
+6, Korkma ben varım, Murat Menteş, Novel, Award6, 5, 2020, 356, description
